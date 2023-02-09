@@ -14,6 +14,12 @@ Pillow==8.2.0
 h5py==2.10.0
 
 ## 热力图效果
+Mobile net：
+![image](https://github.com/homxxx/Class-image_tf2/blob/master/doc/mobilenet-75-conv_pw_12_relu.png)
+
+resnet：
+![image](https://github.com/homxxx/Class-image_tf2/blob/master/doc/resnet-172-add_16.png)
+
 
 ## 训练步骤
 1. datasets文件夹可以存放的图片分为两部分，train里面是训练图片，test里面是测试图片。  
