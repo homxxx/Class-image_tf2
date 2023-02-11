@@ -13,14 +13,14 @@ tqdm==4.46.1
 Pillow==8.2.0
 h5py==2.10.0
 
-## 热力图效果
+## 热力图
 Mobile net：
 
-![image](https://github.com/homxxx/Class-image_tf2/blob/master/doc/mobilenet-75-conv_pw_12_relu.png)
+<img src="https://github.com/homxxx/Class-image_tf2/blob/master/doc/mobilenet-75-conv_pw_12_relu.png" width="300px">
 
-resnet：
+Resnet：
 
-![image](https://github.com/homxxx/Class-image_tf2/blob/master/doc/resnet-172-add_16.png)
+<img src="https://github.com/homxxx/Class-image_tf2/blob/master/doc/resnet-172-add_16.png" width="300px">
 
 
 ## 训练步骤
