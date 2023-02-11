@@ -120,6 +120,9 @@ _defaults = {
     test_annotation_path ： 测试集路径文件
     root_path ： 结果输出保存路径
     ```
+    
+    
+    <img src="https://github.com/homxxx/Class-image_tf2/blob/master/doc/Figure_2.png" width="800px">
 
 ## 模型热力图获得步骤
 1. 在准备好数据集后，需要在运行txt_annotation.py或者根据csv标签构建评估所需的数据路径文件test_annotation_path.txt。
